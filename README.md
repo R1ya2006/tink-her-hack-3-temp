@@ -1,13 +1,13 @@
-# [Project Name] 🎯
+# Tranquil mind 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Hackers
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Riya sinny - Carmel polytechnic
+- Member 2: Amala agnes p jose - carmel polytechnic
 - Member 3: [Name] - [College]
 
 ### Hosted Project Link
@@ -17,19 +17,17 @@
 [2-3 lines about what your project does]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
-
+Mental health problems and solving
 ### The Solution
-[How are you solving it? Keep it fun!]
+By relaxing ,mind
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
+- Kotlin and java
+- flutter
+-chat gpt
+- Android studio
 For Hardware:
 - [List main components]
 - [List specifications]
