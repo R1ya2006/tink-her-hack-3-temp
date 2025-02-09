@@ -8,14 +8,11 @@
 ### Team Members
 - Member 1: Riya sinny - Carmel polytechnic
 - Member 2: Amala agnes p jose - carmel polytechnic
-- Member 3: [Name] - [College]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
-
+r1ya2006.github.io/Tranquil-mind/
 ### Project Description
-[2-3 lines about what your project does]
-
+WHO defines that health is a state of complrte physical mental nd social well-being we make a conversation setion with the patients and categories them as people who need critical treatment and other counciling
 ### The Problem statement
 Mental health problems and solving
 ### The Solution
@@ -47,6 +44,7 @@ For Software:
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
+![image](https://github.com/user-attachments/assets/d87f88c3-d281-4099-bdd8-25117b58e9c2)
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
